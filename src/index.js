@@ -32,7 +32,7 @@ function App() {
       <div className="bg-primary container-md p-2 text-center">
         <h5>Props written in the element: Objects</h5>
         <p>When using props in the element, objects need to be in double curly braces. </p>
-        <p>This will not display the object, instead it will us the obeject in props.</p>
+        <p>This will not display the object, instead it will us the object in props.</p>
         <input type="number" style={{ border:' 2px dashed green' }} />
       </div>
 
